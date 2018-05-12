@@ -1,0 +1,31 @@
+_repo: Historic-Highways-of-America--Vol.-7-Portage-Paths---The-Keys-of-the-Continent_41179
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hulbert, Archer Butler
+    birthdate: 1873
+    deathdate: 1933
+    gutenberg_agent_id: '1112'
+    url: http://www.gutenberg.org/2009/agents/1112
+description: 'pt. I. Portage paths: Nature and use of portages. The evolution of portages.--pt.
+  II. A catalogue of American portages: Introductory. New England and Canadian portages.
+  New York portages. Portages to the Mississippi Basin.'
+gutenberg_issued: '2012-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41179'
+  lccn: 03020874
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historic Highways of America, Vol. 7
+subjects:
+- !lcc 'HE'
+- !lcsh 'Portages -- North America'
+- !lcc 'E151'
+title: 'Portage Paths: The Keys of the Continent'
+url: http://www.gutenberg.org/ebooks/41179
